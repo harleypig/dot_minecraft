@@ -1,8 +1,68 @@
 #############################################################################
+NOTE: I am storing binary files in ~/.cache/mcmods/1.14
+
+#############################################################################
 Misc
+Shaders require Optifine (see mods below)
+
+-----------------------------------------------------------------------------
+Pulchra Revisited
+  https://atlas.graphics
+
+  This requires Optifine.
+
+  This is a repository:
+    gitlab.atlas.graphics:Atlas-Graphics/Pulchra-Revisited-256x.git
+
+  I don't remember what is needed to access this if I need to redo this, but
+  I'm sure I can contact them and get it redone if need be.
+
+  They recommend a couple of shaders (https://atlas.graphics/faq):
+
+  Q: What shader should I use for Pulchra Revisited?
+
+  While any shader with POM support will work, we suggest the Molly shader to
+  achieve the full experience of Pulchra Revisited. Another option is SEUS
+  (Sonic Ether's Unbelievable Shaders) v10.2 and v11.
+
 -----------------------------------------------------------------------------
 Sildurs Shaders
-  https://sildurs-shaders.github.io/
+  https://sildurs-shaders.github.io
+
+I prefer this one.
+
+-----------------------------------------------------------------------------
+Molly is available on discord in Barazoku's server.
+
+I don't like the water to the point where anything else isn't worth it.
+
+-----------------------------------------------------------------------------
+Optifine
+  https://optifine.net/downloads
+
+-----------------------------------------------------------------------------
+Better Title Screen
+  https://www.curseforge.com/minecraft/mc-mods/better-title-screen
+  BetterTitleScreen-*.jar
+
+#############################################################################
+World Generation
+=============================================================================
+
+-----------------------------------------------------------------------------
+Biomes O' Plenty
+  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+  BiomesOPlenty-*.jar
+
+-----------------------------------------------------------------------------
+Serene Seasons
+  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+  ?
+
+-----------------------------------------------------------------------------
+Snow Under Trees
+  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
+  ?
 
 #############################################################################
 Libraries
@@ -24,10 +84,6 @@ Bookshelf-1.15.2-5.5.33.jar
 
 #############################################################################
 Mods
------------------------------------------------------------------------------
-Optifine
-  https://optifine.net/downloads
-
 
 -----------------------------------------------------------------------------
 Advanced Chimneys
@@ -69,26 +125,6 @@ Better Advancements
 Just Enough Resources
   https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
   JustEnoughResources-*.jar
-
------------------------------------------------------------------------------
-Better Title Screen
-  https://www.curseforge.com/minecraft/mc-mods/better-title-screen
-  BetterTitleScreen-*.jar
-
------------------------------------------------------------------------------
-Biomes O' Plenty
-  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-  BiomesOPlenty-*.jar
-
------------------------------------------------------------------------------
-Serene Seasons
-  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
-  ?
-
------------------------------------------------------------------------------
-Snow Under Trees
-  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
-  ?
 
 -----------------------------------------------------------------------------
 LocateBiome
