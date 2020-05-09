@@ -1,0 +1,136 @@
+!!! Include a sign with a link and a name!
+
+====================================================
+Built
+
+  WorldEdit schematics should be in .minecraft/worldedit/schematics.
+
+  MineColonies nbt files should be in .minecraft/minecolonies/schematics.
+
+----------------------------------------------------
+Humble Little House
+worldedit: House_Small_Humble.schematic
+minecolonies: structures/House_Small_Humble.nbt
+source: https://youtu.be/_u7O0dWmCgg
+
+----------------------------------------------------
+Small Survival Starter House
+worldedit: House_Small_Starter.schematics
+minecolonies: structures/House_Small_Starter.nbt
+source: https://youtu.be/i0w2S0dgvnk
+
+----------------------------------------------------
+Compact Survival Starter House
+worldedit: House_Compact_Starter.schematic
+minecolonies: structures/House_Compact_Starter_2.nbt
+source:
+  https://www.youtu.be/WTV0BTjdZoY
+  https://www.planetminecraft.com/project/starter-survival-world-kickstarter-world/
+
+----------------------------------------------------
+Compact Survival Starter House
+worldedit: House_Compact_Starter_2.schematic
+minecolonies: structures/House_Compact_Starter_2.nbt
+source: https://www.youtu.be/UwmZhpww-w4
+
+----------------------------------------------------
+Tiny Survival Starter House
+worldedit: House_Tiny_Starter.schematic
+minecolonies: structures/House_Tiny_Starter.nbt
+source: none
+
+----------------------------------------------------
+Simple Survival House
+worldedit: House_Simple.schematic
+minecolonies: structures/House_Simple.nbt
+source: https://www.planetminecraft.com/project/simple-and-compact-survival-house/
+
+----------------------------------------------------
+Compact Survival Shack
+worldedit:
+minecolonies:
+source: https://youtu.be/5UBDZdXlj4Y
+
+====================================================
+Minecolonies huts
+----------------------------------------------------
+Town Hall
+  https://www.youtube.com/watch?v=TolmkUA3YDo
+  https://www.youtube.com/watch?v=rM9IbjxCCl8
+
+Warehouse
+Builder Hut
+Deliveryman Hut
+Baker's Hut
+
+Lumberjack Hut
+  https://www.youtube.com/watch?v=W7zyyyfjed8
+
+Miner's Hut
+  https://www.youtube.com/watch?v=W7zyyyfjed8
+
+Guard Tower
+  https://www.youtube.com/watch?v=ENQafkYBo2E
+
+  Level 1 is just the hut chest.
+  Level 2 is simple frame based on the video above.
+  Level 3 is more filled in, with a higher tower.
+  Level 4 is more filled in, with a higher tower.
+  Level 5 is more filled in, with a really high tower.
+
+Citizen's Hut
+  Level 1 is just the hut chest and a bed. Maybe a simple block house?
+  Some of these could be used for lumberjack
+
+  https://www.youtube.com/watch?v=qUp-LOkUkcs
+  https://www.youtube.com/watch?v=5UBDZdXlj4Y
+
+Fisherman's Hut
+  https://www.youtube.com/watch?v=pQE7mRXQcds
+
+Farmer's Hut
+  https://www.youtube.com/watch?v=l716j6Et1JY
+    - Use this for inspiration; include all 3 fields in build
+
+====================================================
+General use buildings
+
+----------------------------------------------------
+Advanced and Compact Survival House
+House_Advanced_Compact.schematic
+https://www.planetminecraft.com/project/advanced-and-compact-survival-house/
+
+----------------------------------------------------
+Blacksmith House
+House_Blacksmith.schematic
+https://www.planetminecraft.com/project/cool-blacksmith-house-download/
+
+----------------------------------------------------
+Generic House (possible town hall?)
+House_Generic.schematic
+https://www.planetminecraft.com/project/house-3418109/
+
+----------------------------------------------------
+What to do with these?
+https://www.youtube.com/watch?v=PHTaRaE0-SA
+https://www.youtube.com/watch?v=V6xwShgTdfI
+
+----------------------------------------------------
+Typical Little House
+http://www.minecraft-schematics.com/schematic/10408/
+little-typical-house.schematic
+
+----------------------------------------------------
+House on Water
+http://www.minecraft-schematics.com/schematic/10290/
+water-house.schematic
+
+----------------------------------------------------
+Basic Large House
+http://www.minecraft-schematics.com/schematic/10427/
+basichouse-un-furnished.schematic
+
+----------------------------------------------------
+Small Bakery
+http://www.minecraft-schematics.com/schematic/8182
+small-bakery.schematic

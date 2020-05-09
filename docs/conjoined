@@ -1,0 +1,45 @@
+This is my idea on how to design a conjoined set of huts for MineColonies.
+
+I prefer to build some of my huts in a group a distance away from the center
+of the colony. These are generally a Citizen, Lumberjack, Miner and Guard
+huts. And maybe a Deliveryman.  Perhaps, with the option to assign citizen's
+to a hut, I should allow for a grouping of five huts, plus a citizen hut ...
+
+Originally, I wanted a single build with each of those huts, but
+experimentation showed that wasn't going to happen. So I started experimenting
+with a minimal theme. Somewhere in there I realized I could have a build that
+looked like one building, but was still a separate build for each hut, with
+some decorative builds added on as needed.
+
+So, this document was started as a dumping ground for my thoughts on this.
+
+I think what I want is a building like this:
+
+          +-------------+
+          | Deliveryman |
++---------+-------------+---------+
+| Citizen | Guard Tower | Sawmill |
++---------+-------------+---------+
+          |  Miner      |
+          +-------------+
+
+or, maybe with a Fisherman hut ...
+
++-------------+-----------+
+| Deliveryman | Sawmill   |
++-------------+-----------+
+| Citizen     | Guard     |
++-------------+-----------+
+| Miner       | Fisherman |
++-------------+-----------+
+
+So maybe it would be better to make each of these interchangeable.
+
+Each section's minimum requirement would be it's chest hut, and an extra
+chest.
+
+The Miner needs enough space for the shaft, but if I make the section
+sufficiently interchangeable it can be rotated as needed.
+
+The Citizen "needs" 5 beds at the fifth level. I think I can treat the
+Citizen's hut as a collection of studio apartments.

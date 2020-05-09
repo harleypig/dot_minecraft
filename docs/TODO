@@ -1,0 +1,72 @@
+Are there better (to my taste) texture packs out there?
+Document resourcepacks.
+Find a way to reduce the frequency with which chickens lay eggs.
+Find shaders, document them.
+Have InventoryTweaks choose the least version of the tool/item, not the most. (r option?)
+How do I create a modpack? Do I want to?
+Make a website with this data and setup.
+Setup a sponge server on harleypig.com and set this up there.
+Write program that scrapes site mod is available on, download the latest version of the mod and activate it here.
+Categorize my mods based on curse's scheme
+
+==============================================================================
+Checkout these mods
+
+* Platforms https://minecraft.curseforge.com/projects/platforms
+* http://www.enginehub.org/craftbook
+* http://wiki.sk89q.com/wiki/CommandHelper (the cli option)
+
+Ambience             https://minecraft.curseforge.com/projects/ambience-music-mod
+Baubles              https://minecraft.curseforge.com/projects/baubles
+BlockDispenser       https://minecraft.curseforge.com/projects/blockdispenser
+Chicken Chunks       https://minecraft.curseforge.com/projects/chicken-chunks-1-8
+Chisel               https://minecraft.curseforge.com/projects/chisel
+Chisels & Bits       https://minecraft.curseforge.com/projects/chisels-bits
+ContentTweaker       https://minecraft.curseforge.com/projects/contenttweaker
+Convenient Additions https://minecraft.curseforge.com/projects/convenient-additions
+Decocraft            https://minecraft.curseforge.com/projects/decocraft2
+Diamond Lucky Blocks https://minecraft.curseforge.com/projects/diamond-lucky-block-1-8-1-11-d
+Ender Lucky Block    https://minecraft.curseforge.com/projects/ender-lucky-block-armory-update
+Ender Tanks          https://minecraft.curseforge.com/projects/endertanks
+ExternalTweaker      https://minecraft.curseforge.com/projects/external-tweaker
+Extra Utilities      https://minecraft.curseforge.com/projects/extra-utilities
+Geographicraft       https://minecraft.curseforge.com/projects/climate-control-geographicraft
+Guidebook            https://minecraft.curseforge.com/projects/guidebook
+InfiniteFluids       https://minecraft.curseforge.com/projects/infinitefluids
+Lots of Things       https://minecraft.curseforge.com/projects/lots-of-things
+Lucky Block Pink     https://minecraft.curseforge.com/projects/lucky-block-pink-5-0
+MultiStorage         https://minecraft.curseforge.com/projects/multistorage
+Pillar               https://minecraft.curseforge.com/projects/pillar
+ReCubed              https://minecraft.curseforge.com/projects/recubed
+Redstone Lucky Block https://minecraft.curseforge.com/projects/the-redstone-lucky-block
+Techno Lucky Block   https://minecraft.curseforge.com/projects/techno-lucky-block
+Terraqueous          https://minecraft.curseforge.com/projects/terraqueous
+Visible Armor Slots  https://minecraft.curseforge.com/projects/visible-armor-slots
+Wearable Backpacks   https://minecraft.curseforge.com/projects/wearable-backpacks
+
+==============================================================================
+bin/enable_mods
+
+add ability to enable and disable mods at the same time
+  enable_mods -mod2 +mod3 mod4
+  will disable mod2 and enable mod3 and mod4
+
+  enable_mods all -mod2
+  will enable all mods except for mod2
+
+add enable mods functions to array for 'all' option
+
+change the way individual mods are enabled , probably using array for all option
+
+==============================================================================
+mcbuild
+https://github.com/broese/mcbuild.git (or the projects directory)
+
+Use mcbuild to automate:
+  clear ground cover over colony territory
+  place torches in low light areas
+  assist miner (in minecolonies) with shafts
+  feeding animals
+  moving items from chest to chest
+
+  what else?
