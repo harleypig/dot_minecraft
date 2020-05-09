@@ -1,6 +1,7 @@
 mods/**
 saves/**
 resourcepacks/**
+shaderpacks/**
 
 icon.png
 usercache.json
