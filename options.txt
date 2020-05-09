@@ -28,7 +28,7 @@ fancyGraphics:true
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["mod_resources","vanilla","file/256x Pulchra Revisited 1.13+"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
