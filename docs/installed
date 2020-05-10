@@ -1,10 +1,10 @@
 #############################################################################
-NOTE: I am storing binary files in ~/.cache/mcmods/1.14
+NOTE: I am storing binary files in ~/.cache/mcmods/1.14 and symlinking them
+(though in some cases it must be a hard link for some reason).
 
 #############################################################################
 Misc
 Shaders require Optifine (see mods below)
-
 -----------------------------------------------------------------------------
 Pulchra Revisited
   https://atlas.graphics
@@ -40,29 +40,264 @@ I don't like the water to the point where anything else isn't worth it.
 Optifine
   https://optifine.net/downloads
 
+#############################################################################
 -----------------------------------------------------------------------------
 Better Title Screen
   https://www.curseforge.com/minecraft/mc-mods/better-title-screen
-  BetterTitleScreen-*.jar
 
-#############################################################################
-World Generation
-=============================================================================
+-----------------------------------------------------------------------------
+Controlling
+  https://www.curseforge.com/minecraft/mc-mods/controlling
+
+-----------------------------------------------------------------------------
+ReAuth
+  https://www.curseforge.com/minecraft/mc-mods/reauth
+
+-----------------------------------------------------------------------------
+Swing Through Grass
+  https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass
+
+-----------------------------------------------------------------------------
+KleeSlabs
+  https://www.curseforge.com/minecraft/mc-mods/kleeslabs
+
+-----------------------------------------------------------------------------
+Crafting Tweaks
+  https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks
+
+-----------------------------------------------------------------------------
+Quick Leaf Decay
+  https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay
+
+-----------------------------------------------------------------------------
+Enhanced Visuals
+  https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+
+-----------------------------------------------------------------------------
+FPS Reducer
+  https://www.curseforge.com/minecraft/mc-mods/fps-reducer
+
+-----------------------------------------------------------------------------
+Double Doors
+  https://www.curseforge.com/minecraft/mc-mods/double-doors
+
+-----------------------------------------------------------------------------
+Falling Trees
+  https://www.curseforge.com/minecraft/mc-mods/falling-tree
+
+-----------------------------------------------------------------------------
+Pretty Beaches
+  https://www.curseforge.com/minecraft/mc-mods/pretty-beaches
+
+-----------------------------------------------------------------------------
+Immersive Portals
+  https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge
+
+-----------------------------------------------------------------------------
+Uncraft Me
+  https://www.curseforge.com/minecraft/mc-mods/uncraft-me
+
+-----------------------------------------------------------------------------
+Torch Placer
+  https://www.curseforge.com/minecraft/mc-mods/torchplacer
+
+-----------------------------------------------------------------------------
+Wool To String
+  https://www.curseforge.com/minecraft/mc-mods/wooltostring
+
+-----------------------------------------------------------------------------
+Inventory Totem
+  https://www.curseforge.com/minecraft/mc-mods/inventory-totem
+
+-----------------------------------------------------------------------------
+Chicken Shed
+  https://www.curseforge.com/minecraft/mc-mods/chickenshedcontinued
+
+-----------------------------------------------------------------------------
+Upsizer Mod
+  https://www.curseforge.com/minecraft/mc-mods/upsizer-mod
+
+-----------------------------------------------------------------------------
+Flesh To Leather
+  https://www.curseforge.com/minecraft/mc-mods/fleshtoleather
+
+-----------------------------------------------------------------------------
+Large Ore Deposits
+  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+  Requires ForgeEndertech
+
+-----------------------------------------------------------------------------
+Peaceful Surface
+  https://www.curseforge.com/minecraft/mc-mods/peacefulsurface
+
+-----------------------------------------------------------------------------
+AppleSkin
+  https://www.curseforge.com/minecraft/mc-mods/appleskin
+
+-----------------------------------------------------------------------------
+Comforts
+  https://www.curseforge.com/minecraft/mc-mods/comforts
+
+-----------------------------------------------------------------------------
+Water Strainer
+  https://www.curseforge.com/minecraft/mc-mods/water-strainer
+
+-----------------------------------------------------------------------------
+Crafting Station
+  https://www.curseforge.com/minecraft/mc-mods/crafting-station
+
+-----------------------------------------------------------------------------
+CraftingCraft
+  https://www.curseforge.com/minecraft/mc-mods/craftingcraft
+
+-----------------------------------------------------------------------------
+Tiny Mob Farm
+  https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm
+
+-----------------------------------------------------------------------------
+Mini Coal
+  https://www.curseforge.com/minecraft/mc-mods/minicoal
 
 -----------------------------------------------------------------------------
 Biomes O' Plenty
   https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-  BiomesOPlenty-*.jar
 
 -----------------------------------------------------------------------------
 Serene Seasons
   https://www.curseforge.com/minecraft/mc-mods/serene-seasons
-  ?
 
 -----------------------------------------------------------------------------
 Snow Under Trees
   https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
-  ?
+
+-----------------------------------------------------------------------------
+Berry Bushes
+  https://www.curseforge.com/minecraft/mc-mods/berry-bushes
+
+-----------------------------------------------------------------------------
+Clean View
+  https://www.curseforge.com/minecraft/mc-mods/cleanview
+
+-----------------------------------------------------------------------------
+Better Advancements
+  https://www.curseforge.com/minecraft/mc-mods/better-advancements
+
+-----------------------------------------------------------------------------
+Just Enough Resources
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+
+-----------------------------------------------------------------------------
+LocateBiome
+  https://www.curseforge.com/minecraft/mc-mods/locatebiome
+
+-----------------------------------------------------------------------------
+Ceiling Torch
+  https://www.curseforge.com/minecraft/mc-mods/ceiling-torch
+
+-----------------------------------------------------------------------------
+Botany Pots
+  https://www.curseforge.com/minecraft/mc-mods/botany-pots
+
+-----------------------------------------------------------------------------
+Bonsai Pots
+  https://www.curseforge.com/minecraft/mc-mods/bonsai-trees
+
+-----------------------------------------------------------------------------
+AttributeFix
+  https://www.curseforge.com/minecraft/mc-mods/attributefix
+
+-----------------------------------------------------------------------------
+Enchantment Descriptions
+  https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
+
+-----------------------------------------------------------------------------
+No Recipe Book
+  https://www.curseforge.com/minecraft/mc-mods/no-recipe-book
+
+-----------------------------------------------------------------------------
+Nature's Compass
+  https://www.curseforge.com/minecraft/mc-mods/natures-compass
+
+-----------------------------------------------------------------------------
+Storage Drawers Unlimited
+  https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited
+
+-----------------------------------------------------------------------------
+Quark
+  https://www.curseforge.com/minecraft/mc-mods/quark
+
+-----------------------------------------------------------------------------
+Compact Ores
+  https://www.curseforge.com/minecraft/mc-mods/compact-ores
+
+-----------------------------------------------------------------------------
+Fish Traps
+  https://www.curseforge.com/minecraft/mc-mods/fish-traps
+
+-----------------------------------------------------------------------------
+Realistic Ore Veins
+  https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins
+
+-----------------------------------------------------------------------------
+Water Erosion
+  https://www.curseforge.com/minecraft/mc-mods/water-erosion
+
+-----------------------------------------------------------------------------
+More Than A Pickaxe
+  https://www.curseforge.com/minecraft/mc-mods/more-than-a-pickaxe
+
+-----------------------------------------------------------------------------
+Kelp Fertilizer
+  https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer
+
+-----------------------------------------------------------------------------
+Minecolonies
+  https://www.curseforge.com/minecraft/mc-mods/minecolonies
+
+  Requires Structurize
+
+-----------------------------------------------------------------------------
+Macaw's Bridges
+  https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
+
+-----------------------------------------------------------------------------
+Ruins
+  https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
+
+-----------------------------------------------------------------------------
+Better Bedrock Generator
+  https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator
+
+-----------------------------------------------------------------------------
+No Nitwits
+  https://www.curseforge.com/minecraft/mc-mods/no-nitwits
+
+-----------------------------------------------------------------------------
+Clumps-5.0.2.jar
+CraftTweaker-1.15.2-6.0.0.17.jar
+damage_indicator-0.1.0.jar
+EquipmentTooltips-1.15.2-1.4.0+11.jar
+[Forge]+RFTL+1.5.2+R.jar
+inventoryprofiles-forge-1.15.2-0.2.1.jar
+ironchest-1.15.2-10.0.3.jar
+
+-----------------------------------------------------------------------------
+journeymap-1.15.2-5.7.0b2.jar
+What about xeria? xenia
+Can I add a waypoint from '/' command?
+
+-----------------------------------------------------------------------------
+jei-1.15.2-6.0.0.4.jar
+justenoughbeacons-2.0.jar
+JustEnoughCalculation-1.15.2-3.6.1.jar
+OreExcavation-1.7.151.jar
+overworld_quartz-1.15.2-1.0.0.1.jar
+ReAuth-1.14-3.8.0.jar
+ruins-1.15.1.3.jar
+SaveMyStronghold-1.15.2-1.0.0.jar
+StorageDrawers-1.15.2-7.0.2.jar
+SurvivalPlus-1.15.2-0.1.2.jar
+water-erosion-1.15.2-forge-1.1.2.jar
 
 #############################################################################
 Libraries
@@ -82,122 +317,51 @@ AutoRegLib-1.5-40.jar
 Bookshelf-1.15.2-5.5.33.jar
   https://www.curseforge.com/minecraft/mc-mods/bookshelf
 
+-----------------------------------------------------------------------------
+Mixin Bootstrap
+  https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap
+
+  Required by Immersive Portals
+
+-----------------------------------------------------------------------------
+Structurize
+  https://www.curseforge.com/minecraft/mc-mods/structurize
+
+  Required by Minecolonies
+
 #############################################################################
-Mods
-
------------------------------------------------------------------------------
-Advanced Chimneys
-  https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
-  AdChimneys-*.jar
-
------------------------------------------------------------------------------
-Large Ore Deposits
-  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
-  AdLods-*.jar
-  Requires ForgeEndertech
-
------------------------------------------------------------------------------
-Peaceful Surface
-  https://www.curseforge.com/minecraft/mc-mods/peacefulsurface
-  PeacefulSurface-*.jar
-
------------------------------------------------------------------------------
-AppleSkin
-  https://www.curseforge.com/minecraft/mc-mods/appleskin
-  AppleSkin-*.jar
-
------------------------------------------------------------------------------
-Berry Bushes
-  https://www.curseforge.com/minecraft/mc-mods/berry-bushes
-  BerryBushes-*.jar
-
------------------------------------------------------------------------------
-Clean View
-  https://www.curseforge.com/minecraft/mc-mods/cleanview
-  CleanView-*.jar
-
------------------------------------------------------------------------------
-Better Advancements
-  https://www.curseforge.com/minecraft/mc-mods/better-advancements
-  BetterAdvancements-*.jar
-
------------------------------------------------------------------------------
-Just Enough Resources
-  https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
-  JustEnoughResources-*.jar
-
------------------------------------------------------------------------------
-LocateBiome
-  https://www.curseforge.com/minecraft/mc-mods/locatebiome
-  ?
-
------------------------------------------------------------------------------
-Ceiling Torch
-  https://www.curseforge.com/minecraft/mc-mods/ceiling-torch
-  ?
-
------------------------------------------------------------------------------
-Botany Pots
-  https://www.curseforge.com/minecraft/mc-mods/botany-pots
-  ?
-
------------------------------------------------------------------------------
-Bonsai Pots
-  https://www.curseforge.com/minecraft/mc-mods/bonsai-trees
-  ?
-
------------------------------------------------------------------------------
-AttributeFix
-  https://www.curseforge.com/minecraft/mc-mods/attributefix
-  ?
-
------------------------------------------------------------------------------
-Enchantment Descriptions
-  https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
-  ?
-
------------------------------------------------------------------------------
-No Recipe Book
-  https://www.curseforge.com/minecraft/mc-mods/no-recipe-book
-  ?
-
------------------------------------------------------------------------------
-Crafting Tweaks
-  https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks
-  ?
-
------------------------------------------------------------------------------
-Clumps-5.0.2.jar
-comforts-FORGE-1.15.2-2.0.0.2.jar
-CraftTweaker-1.15.2-6.0.0.17.jar
-damage_indicator-0.1.0.jar
-EquipmentTooltips-1.15.2-1.4.0+11.jar
-[Forge]+RFTL+1.5.2+R.jar
-inventoryprofiles-forge-1.15.2-0.2.1.jar
-ironchest-1.15.2-10.0.3.jar
-
------------------------------------------------------------------------------
-journeymap-1.15.2-5.7.0b2.jar
-What about xeria? xenia
-Can I add a waypoint from '/' command?
-
------------------------------------------------------------------------------
-jei-1.15.2-6.0.0.4.jar
-justenoughbeacons-2.0.jar
-JustEnoughCalculation-1.15.2-3.6.1.jar
-mcw-bridges-1.0.4fix-mc1.15.2.jar
-minecolonies-0.10.771-RELEASE-universal.jar
-MoreThanAPickaxe-1.15.2-0.1.2.jar
-NaturesCompass-1.15.2-1.8.5.jar
-OreExcavation-1.7.151.jar
-oreveins-forge-1.15.2-5.1.1.jar
-overworld_quartz-1.15.2-1.0.0.1.jar
-Quark-r2.1-235.jar
-ReAuth-1.14-3.8.0.jar
-ruins-1.15.1.3.jar
-SaveMyStronghold-1.15.2-1.0.0.jar
-StorageDrawers-1.15.2-7.0.2.jar
-structurize-0.10.311-RELEASE.jar
-SurvivalPlus-1.15.2-0.1.2.jar
-water-erosion-1.15.2-forge-1.1.2.jar
-WoolToString-1.14.2-1.0.0.jar
+[ ] World Gen
+  [X] Biomes
+  [X] Ores & Resources
+  [X] Structures
+  [X] Dimensions
+  [ ] Mobs
+[ ] Technology
+  [ ] Processing
+  [ ] Player Transport
+  [ ] Energy, Fluid & Item Transport
+  [ ] Farming
+  [ ] Energy
+  [ ] Genetics
+[ ] Magic
+[ ] Storage
+[ ] API & Library
+[ ] Adventure & RPG
+[ ] Map & Information
+[ ] Cosmetic
+[X] Misc
+[ ] Addons
+  [ ] Thermal Expansion
+  [ ] Tinker's Construct
+  [ ] Industrial Craft
+  [ ] Thaumcraft
+  [ ] Buildcraft
+  [ ] Forestry
+  [ ] Blood Magic
+  [ ] Lucky Blocks
+  [ ] Applied Energistics 2
+  [ ] CraftTweaker
+[ ] Armor, Tools & Weapons
+[ ] Server Utility
+[ ] Food
+[ ] Redstone
