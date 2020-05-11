@@ -2,6 +2,7 @@ mods/**
 saves/**
 resourcepacks/**
 shaderpacks/**
+crash-reports/**
 
 icon.png
 usercache.json
