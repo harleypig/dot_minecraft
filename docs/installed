@@ -273,31 +273,163 @@ No Nitwits
   https://www.curseforge.com/minecraft/mc-mods/no-nitwits
 
 -----------------------------------------------------------------------------
-Clumps-5.0.2.jar
+Omega Mute
+  https://www.curseforge.com/minecraft/mc-mods/omega-mute
+
+-----------------------------------------------------------------------------
+Iron Furnaces
+  https://www.curseforge.com/minecraft/mc-mods/iron-furnaces
+
+-----------------------------------------------------------------------------
+Crafting Automat
+  https://www.curseforge.com/minecraft/mc-mods/crafting-automat
+
+-----------------------------------------------------------------------------
+Low Tech Crafting
+  https://www.curseforge.com/minecraft/mc-mods/low-tech-crafting
+
+-----------------------------------------------------------------------------
+CraftingTable IV
+  https://www.curseforge.com/minecraft/mc-mods/craftingtable-iv
+
+-----------------------------------------------------------------------------
+Simple Crafting Frame
+  https://www.curseforge.com/minecraft/mc-mods/simple-crafting-frame
+
+-----------------------------------------------------------------------------
+Better Animals
+  https://www.curseforge.com/minecraft/mc-mods/better-animal-models
+
+-----------------------------------------------------------------------------
+Better Animals Plus
+  https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
+
+-----------------------------------------------------------------------------
+Parachute Mod
+  https://www.curseforge.com/minecraft/mc-mods/parachutemod
+
+-----------------------------------------------------------------------------
+Uppers
+  https://www.curseforge.com/minecraft/mc-mods/uppers
+
+-----------------------------------------------------------------------------
+Wooden Shears
+  https://www.curseforge.com/minecraft/mc-mods/sbm-wooden-shears
+
+-----------------------------------------------------------------------------
+Snad
+  https://www.curseforge.com/minecraft/mc-mods/snad-back-to-the-past
+
+-----------------------------------------------------------------------------
+Click Machine
+  https://www.curseforge.com/minecraft/mc-mods/click-machine
+
+-----------------------------------------------------------------------------
+Storage Drawers
+  https://www.curseforge.com/minecraft/mc-mods/storage-drawers
+
+-----------------------------------------------------------------------------
+Iron Chests
+  https://www.curseforge.com/minecraft/mc-mods/iron-chests
+
+-----------------------------------------------------------------------------
+Clumps
+  https://www.curseforge.com/minecraft/mc-mods/clumps
+
+-----------------------------------------------------------------------------
+Carry On
+  https://www.curseforge.com/minecraft/mc-mods/carry-on
+
+-----------------------------------------------------------------------------
+Stone Chests
+  https://www.curseforge.com/minecraft/mc-mods/stone-chest
+
+-----------------------------------------------------------------------------
+Inventory Profiles
+  https://www.curseforge.com/minecraft/mc-mods/inventory-profiles
+
+-----------------------------------------------------------------------------
+Clay Conversion
+  https://www.curseforge.com/minecraft/mc-mods/clay-conversion
+
+-----------------------------------------------------------------------------
+A Block of Flint
+  https://www.curseforge.com/minecraft/mc-mods/a-block-of-flint
+
+-----------------------------------------------------------------------------
+Just Enough Items
+  https://www.curseforge.com/minecraft/mc-mods/jei
+
+-----------------------------------------------------------------------------
+Hwyla
+  https://www.curseforge.com/minecraft/mc-mods/hwyla
+
+-----------------------------------------------------------------------------
+Mod Name Tooltip
+  https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip
+
+-----------------------------------------------------------------------------
+Ding
+  https://www.curseforge.com/minecraft/mc-mods/ding
+
+-----------------------------------------------------------------------------
+FindMe
+  https://www.curseforge.com/minecraft/mc-mods/findme
+
+-----------------------------------------------------------------------------
+JEI Integration
+  https://www.curseforge.com/minecraft/mc-mods/jei-integration
+
+-----------------------------------------------------------------------------
+Block Drops
+  https://www.curseforge.com/minecraft/mc-mods/block-drops-jei-addon
+
+-----------------------------------------------------------------------------
+Just Enough Calculation
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation
+
+-----------------------------------------------------------------------------
+Equipment Tooltips
+  https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips
+
+-----------------------------------------------------------------------------
+JEI Tweaker
+  https://www.curseforge.com/minecraft/mc-mods/jeitweaker
+
+-----------------------------------------------------------------------------
+Notes
+  https://www.curseforge.com/minecraft/mc-mods/notes
+
+-----------------------------------------------------------------------------
+Just Enough Beacons
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons
+
+-----------------------------------------------------------------------------
+Just Enough Buttons
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-buttons
+
+-----------------------------------------------------------------------------
 CraftTweaker-1.15.2-6.0.0.17.jar
 damage_indicator-0.1.0.jar
 EquipmentTooltips-1.15.2-1.4.0+11.jar
 [Forge]+RFTL+1.5.2+R.jar
-inventoryprofiles-forge-1.15.2-0.2.1.jar
-ironchest-1.15.2-10.0.3.jar
 
 -----------------------------------------------------------------------------
-journeymap-1.15.2-5.7.0b2.jar
-What about xeria? xenia
+Compare:
+  journeymap-1.15.2-5.7.0b2.jar
+  https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
 Can I add a waypoint from '/' command?
 
 -----------------------------------------------------------------------------
 jei-1.15.2-6.0.0.4.jar
 justenoughbeacons-2.0.jar
-JustEnoughCalculation-1.15.2-3.6.1.jar
 OreExcavation-1.7.151.jar
 overworld_quartz-1.15.2-1.0.0.1.jar
 ReAuth-1.14-3.8.0.jar
-ruins-1.15.1.3.jar
 SaveMyStronghold-1.15.2-1.0.0.jar
-StorageDrawers-1.15.2-7.0.2.jar
 SurvivalPlus-1.15.2-0.1.2.jar
-water-erosion-1.15.2-forge-1.1.2.jar
 
 #############################################################################
 Libraries
@@ -330,24 +462,24 @@ Structurize
   Required by Minecolonies
 
 #############################################################################
-[ ] World Gen
+[X] World Gen
   [X] Biomes
   [X] Ores & Resources
   [X] Structures
   [X] Dimensions
-  [ ] Mobs
-[ ] Technology
-  [ ] Processing
-  [ ] Player Transport
-  [ ] Energy, Fluid & Item Transport
-  [ ] Farming
+  [X] Mobs
+[X] Technology
+  [X] Processing
+  [X] Player Transport
+  [X] Energy, Fluid & Item Transport
+  [X] Farming
   [ ] Energy
   [ ] Genetics
 [ ] Magic
-[ ] Storage
+[X] Storage
 [ ] API & Library
 [ ] Adventure & RPG
-[ ] Map & Information
+[X] Map & Information
 [ ] Cosmetic
 [X] Misc
 [ ] Addons
