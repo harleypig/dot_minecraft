@@ -1,9 +1,10 @@
-mods/**
-saves/**
-resourcepacks/**
-shaderpacks/**
 crash-reports/**
+mods/**
+resourcepacks/**
+saves/**
+shaderpacks/**
 
 icon.png
+reauth.toml
 usercache.json
 usernamecache.json

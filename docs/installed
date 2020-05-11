@@ -2,8 +2,63 @@
 NOTE: I am storing binary files in ~/.cache/mcmods/1.14 and symlinking them
 (though in some cases it must be a hard link for some reason).
 
+XXX:
+  Put JEI mods in their own section.
+  Put hud mods in their own section.
+
 #############################################################################
-Misc
+Viewed
+
+[X] World Gen
+  [X] Biomes
+  [X] Ores & Resources
+  [X] Structures
+  [X] Dimensions
+  [X] Mobs
+[X] Technology
+  [X] Processing
+  [X] Player Transport
+  [X] Energy, Fluid & Item Transport
+  [X] Farming
+  [ ] Energy
+  [ ] Genetics
+[ ] Magic
+[X] Storage
+[ ] API & Library
+[ ] Adventure & RPG
+[X] Map & Information
+[X] Cosmetic
+[X] Misc
+[ ] Addons
+  [ ] Thermal Expansion
+  [ ] Tinker's Construct
+  [ ] Industrial Craft
+  [ ] Thaumcraft
+  [ ] Buildcraft
+  [ ] Forestry
+  [ ] Blood Magic
+  [ ] Lucky Blocks
+  [ ] Applied Energistics 2
+  [ ] CraftTweaker
+[ ] Armor, Tools & Weapons
+[ ] Server Utility
+[ ] Food
+[ ] Redstone
+
+#############################################################################
+-----------------------------------------------------------------------------
+JourneyMap
+  https://www.curseforge.com/minecraft/mc-mods/journeymap
+
+Compare with Xaeros
+  https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
+Can I add a waypoint from '/' command?
+
+#############################################################################
+Before Gameplay
+
 Shaders require Optifine (see mods below)
 -----------------------------------------------------------------------------
 Pulchra Revisited
@@ -40,26 +95,76 @@ I don't like the water to the point where anything else isn't worth it.
 Optifine
   https://optifine.net/downloads
 
-#############################################################################
 -----------------------------------------------------------------------------
 Better Title Screen
   https://www.curseforge.com/minecraft/mc-mods/better-title-screen
+  BetterTitleScreen-*.jar
+  Tested
+
+-----------------------------------------------------------------------------
+ReAuth
+  https://www.curseforge.com/minecraft/mc-mods/reauth
+  ReAuth-*.jar
+  Tested
+
+-----------------------------------------------------------------------------
+Ding
+  https://www.curseforge.com/minecraft/mc-mods/ding
 
 -----------------------------------------------------------------------------
 Controlling
   https://www.curseforge.com/minecraft/mc-mods/controlling
 
+#############################################################################
+World Generation
+
 -----------------------------------------------------------------------------
-ReAuth
-  https://www.curseforge.com/minecraft/mc-mods/reauth
+Large Ore Deposits
+  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+  Requires ForgeEndertech
+
+-----------------------------------------------------------------------------
+Biomes O' Plenty
+  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+
+-----------------------------------------------------------------------------
+Serene Seasons
+  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+
+-----------------------------------------------------------------------------
+Snow Under Trees
+  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
+
+-----------------------------------------------------------------------------
+Realistic Ore Veins
+  https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins
+
+-----------------------------------------------------------------------------
+Water Erosion
+  https://www.curseforge.com/minecraft/mc-mods/water-erosion
+
+-----------------------------------------------------------------------------
+Ruins
+  https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
+
+-----------------------------------------------------------------------------
+Better Bedrock Generator
+  https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator
+
+-----------------------------------------------------------------------------
+Overworld Quartz
+  https://www.curseforge.com/minecraft/mc-mods/overworld-quartz-forge
+
+-----------------------------------------------------------------------------
+Save My Stronghold
+  https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
+
+#############################################################################
+Additions, Alterations - Does not add blocks, items or mobs
 
 -----------------------------------------------------------------------------
 Swing Through Grass
   https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass
-
------------------------------------------------------------------------------
-KleeSlabs
-  https://www.curseforge.com/minecraft/mc-mods/kleeslabs
 
 -----------------------------------------------------------------------------
 Crafting Tweaks
@@ -70,28 +175,12 @@ Quick Leaf Decay
   https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay
 
 -----------------------------------------------------------------------------
-Enhanced Visuals
-  https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
-
------------------------------------------------------------------------------
 FPS Reducer
   https://www.curseforge.com/minecraft/mc-mods/fps-reducer
 
 -----------------------------------------------------------------------------
-Double Doors
-  https://www.curseforge.com/minecraft/mc-mods/double-doors
-
------------------------------------------------------------------------------
 Falling Trees
   https://www.curseforge.com/minecraft/mc-mods/falling-tree
-
------------------------------------------------------------------------------
-Pretty Beaches
-  https://www.curseforge.com/minecraft/mc-mods/pretty-beaches
-
------------------------------------------------------------------------------
-Immersive Portals
-  https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge
 
 -----------------------------------------------------------------------------
 Uncraft Me
@@ -117,18 +206,143 @@ Chicken Shed
 Upsizer Mod
   https://www.curseforge.com/minecraft/mc-mods/upsizer-mod
 
+  Increases the max stack size per slot of various Minecraft items in
+  inventories (player, chests, dispensers, etc.).
+
 -----------------------------------------------------------------------------
 Flesh To Leather
   https://www.curseforge.com/minecraft/mc-mods/fleshtoleather
 
 -----------------------------------------------------------------------------
-Large Ore Deposits
-  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
-  Requires ForgeEndertech
-
------------------------------------------------------------------------------
 Peaceful Surface
   https://www.curseforge.com/minecraft/mc-mods/peacefulsurface
+
+-----------------------------------------------------------------------------
+Clean View
+  https://www.curseforge.com/minecraft/mc-mods/cleanview
+
+-----------------------------------------------------------------------------
+Pretty Beaches
+  https://www.curseforge.com/minecraft/mc-mods/pretty-beaches
+
+-----------------------------------------------------------------------------
+Better Advancements
+  https://www.curseforge.com/minecraft/mc-mods/better-advancements
+
+-----------------------------------------------------------------------------
+LocateBiome
+  https://www.curseforge.com/minecraft/mc-mods/locatebiome
+
+-----------------------------------------------------------------------------
+Ceiling Torch
+  https://www.curseforge.com/minecraft/mc-mods/ceiling-torch
+
+-----------------------------------------------------------------------------
+AttributeFix
+  https://www.curseforge.com/minecraft/mc-mods/attributefix
+
+-----------------------------------------------------------------------------
+No Recipe Book
+  https://www.curseforge.com/minecraft/mc-mods/no-recipe-book
+
+-----------------------------------------------------------------------------
+No Nitwits
+  https://www.curseforge.com/minecraft/mc-mods/no-nitwits
+
+-----------------------------------------------------------------------------
+Omega Mute
+  https://www.curseforge.com/minecraft/mc-mods/omega-mute
+
+-----------------------------------------------------------------------------
+Carry On
+  https://www.curseforge.com/minecraft/mc-mods/carry-on
+
+-----------------------------------------------------------------------------
+Inventory Profiles
+  https://www.curseforge.com/minecraft/mc-mods/inventory-profiles
+
+-----------------------------------------------------------------------------
+Clay Conversion
+  https://www.curseforge.com/minecraft/mc-mods/clay-conversion
+
+-----------------------------------------------------------------------------
+FindMe
+  https://www.curseforge.com/minecraft/mc-mods/findme
+
+-----------------------------------------------------------------------------
+Torch Slabs Mod
+  https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
+
+-----------------------------------------------------------------------------
+CraftTweaker
+  https://www.curseforge.com/minecraft/mc-mods/crafttweaker
+
+-----------------------------------------------------------------------------
+Ore Excavation
+  https://www.curseforge.com/minecraft/mc-mods/ore-excavation
+
+-----------------------------------------------------------------------------
+Paintings++
+  https://www.curseforge.com/minecraft/mc-mods/paintings
+
+-----------------------------------------------------------------------------
+Creeper Confettit
+  https://www.curseforge.com/minecraft/mc-mods/creeper-confetti
+
+-----------------------------------------------------------------------------
+Miner's Helmet
+  https://www.curseforge.com/minecraft/mc-mods/miners-helmet
+
+-----------------------------------------------------------------------------
+Lightest Lamps
+  https://www.curseforge.com/minecraft/mc-mods/lightest-lamps
+
+-----------------------------------------------------------------------------
+Double Slabs
+  https://www.curseforge.com/minecraft/mc-mods/double-slabs
+
+-----------------------------------------------------------------------------
+A Block of Charcoal
+  https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal
+
+-----------------------------------------------------------------------------
+Once Upon A Stroll
+  https://www.curseforge.com/minecraft/mc-mods/once-upon-a-stroll
+
+-----------------------------------------------------------------------------
+Huds - Armor Status & Damage Indicators
+  https://www.curseforge.com/minecraft/mc-mods/huds-armor-status-damage-indicators
+
+-----------------------------------------------------------------------------
+Better Foliage
+  https://www.curseforge.com/minecraft/mc-mods/better-foliage
+
+#############################################################################
+Additions, Alterations
+
+-----------------------------------------------------------------------------
+KleeSlabs
+  https://www.curseforge.com/minecraft/mc-mods/kleeslabs
+
+-----------------------------------------------------------------------------
+Enhanced Visuals
+  https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+
+  Blood Spatter, etc.
+
+  From the page:
+
+  In order to use EnhancedVisuals alongside Optifine, Fast Render, Anisotropic
+  Filtering and Antialiasing has to be turned off. Otherwise your screen will
+  turn black when certain effects are active.
+
+-----------------------------------------------------------------------------
+Double Doors
+  https://www.curseforge.com/minecraft/mc-mods/double-doors
+
+-----------------------------------------------------------------------------
+Immersive Portals
+  https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge
 
 -----------------------------------------------------------------------------
 AppleSkin
@@ -159,40 +373,12 @@ Mini Coal
   https://www.curseforge.com/minecraft/mc-mods/minicoal
 
 -----------------------------------------------------------------------------
-Biomes O' Plenty
-  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-
------------------------------------------------------------------------------
-Serene Seasons
-  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
-
------------------------------------------------------------------------------
-Snow Under Trees
-  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
-
------------------------------------------------------------------------------
 Berry Bushes
   https://www.curseforge.com/minecraft/mc-mods/berry-bushes
 
 -----------------------------------------------------------------------------
-Clean View
-  https://www.curseforge.com/minecraft/mc-mods/cleanview
-
------------------------------------------------------------------------------
-Better Advancements
-  https://www.curseforge.com/minecraft/mc-mods/better-advancements
-
------------------------------------------------------------------------------
 Just Enough Resources
   https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
-
------------------------------------------------------------------------------
-LocateBiome
-  https://www.curseforge.com/minecraft/mc-mods/locatebiome
-
------------------------------------------------------------------------------
-Ceiling Torch
-  https://www.curseforge.com/minecraft/mc-mods/ceiling-torch
 
 -----------------------------------------------------------------------------
 Botany Pots
@@ -203,16 +389,8 @@ Bonsai Pots
   https://www.curseforge.com/minecraft/mc-mods/bonsai-trees
 
 -----------------------------------------------------------------------------
-AttributeFix
-  https://www.curseforge.com/minecraft/mc-mods/attributefix
-
------------------------------------------------------------------------------
 Enchantment Descriptions
   https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
-
------------------------------------------------------------------------------
-No Recipe Book
-  https://www.curseforge.com/minecraft/mc-mods/no-recipe-book
 
 -----------------------------------------------------------------------------
 Nature's Compass
@@ -235,14 +413,6 @@ Fish Traps
   https://www.curseforge.com/minecraft/mc-mods/fish-traps
 
 -----------------------------------------------------------------------------
-Realistic Ore Veins
-  https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins
-
------------------------------------------------------------------------------
-Water Erosion
-  https://www.curseforge.com/minecraft/mc-mods/water-erosion
-
------------------------------------------------------------------------------
 More Than A Pickaxe
   https://www.curseforge.com/minecraft/mc-mods/more-than-a-pickaxe
 
@@ -259,22 +429,6 @@ Minecolonies
 -----------------------------------------------------------------------------
 Macaw's Bridges
   https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
-
------------------------------------------------------------------------------
-Ruins
-  https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
-
------------------------------------------------------------------------------
-Better Bedrock Generator
-  https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator
-
------------------------------------------------------------------------------
-No Nitwits
-  https://www.curseforge.com/minecraft/mc-mods/no-nitwits
-
------------------------------------------------------------------------------
-Omega Mute
-  https://www.curseforge.com/minecraft/mc-mods/omega-mute
 
 -----------------------------------------------------------------------------
 Iron Furnaces
@@ -337,20 +491,8 @@ Clumps
   https://www.curseforge.com/minecraft/mc-mods/clumps
 
 -----------------------------------------------------------------------------
-Carry On
-  https://www.curseforge.com/minecraft/mc-mods/carry-on
-
------------------------------------------------------------------------------
 Stone Chests
   https://www.curseforge.com/minecraft/mc-mods/stone-chest
-
------------------------------------------------------------------------------
-Inventory Profiles
-  https://www.curseforge.com/minecraft/mc-mods/inventory-profiles
-
------------------------------------------------------------------------------
-Clay Conversion
-  https://www.curseforge.com/minecraft/mc-mods/clay-conversion
 
 -----------------------------------------------------------------------------
 A Block of Flint
@@ -367,14 +509,6 @@ Hwyla
 -----------------------------------------------------------------------------
 Mod Name Tooltip
   https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip
-
------------------------------------------------------------------------------
-Ding
-  https://www.curseforge.com/minecraft/mc-mods/ding
-
------------------------------------------------------------------------------
-FindMe
-  https://www.curseforge.com/minecraft/mc-mods/findme
 
 -----------------------------------------------------------------------------
 JEI Integration
@@ -409,74 +543,8 @@ Just Enough Buttons
   https://www.curseforge.com/minecraft/mc-mods/just-enough-buttons
 
 -----------------------------------------------------------------------------
-Better Foliage
-  https://www.curseforge.com/minecraft/mc-mods/better-foliage
-
------------------------------------------------------------------------------
-Paintings++
-  https://www.curseforge.com/minecraft/mc-mods/paintings
-
------------------------------------------------------------------------------
-Torch Slabs Mod
-  https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
-
------------------------------------------------------------------------------
-Creeper Confettit
-  https://www.curseforge.com/minecraft/mc-mods/creeper-confetti
-
------------------------------------------------------------------------------
-Miner's Helmet
-  https://www.curseforge.com/minecraft/mc-mods/miners-helmet
-
------------------------------------------------------------------------------
-Lightest Lamps
-  https://www.curseforge.com/minecraft/mc-mods/lightest-lamps
-
------------------------------------------------------------------------------
-Double Slabs
-  https://www.curseforge.com/minecraft/mc-mods/double-slabs
-
------------------------------------------------------------------------------
-A Block of Charcoal
-  https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal
-
------------------------------------------------------------------------------
-Once Upon A Stroll
-  https://www.curseforge.com/minecraft/mc-mods/once-upon-a-stroll
-
------------------------------------------------------------------------------
-CraftTweaker
-  https://www.curseforge.com/minecraft/mc-mods/crafttweaker
-
------------------------------------------------------------------------------
-Huds - Armor Status & Damage Indicators
-  https://www.curseforge.com/minecraft/mc-mods/huds-armor-status-damage-indicators
-
------------------------------------------------------------------------------
-Ore Excavation
-  https://www.curseforge.com/minecraft/mc-mods/ore-excavation
-
------------------------------------------------------------------------------
-Overworld Quartz
-  https://www.curseforge.com/minecraft/mc-mods/overworld-quartz-forge
-
------------------------------------------------------------------------------
-Save My Stronghold
-  https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
-
------------------------------------------------------------------------------
 SurvivalPlus
   https://www.curseforge.com/minecraft/mc-mods/survivalplus
-
------------------------------------------------------------------------------
-JourneyMap
-  https://www.curseforge.com/minecraft/mc-mods/journeymap
-
-Compare with Xaeros
-  https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
-
-Can I add a waypoint from '/' command?
 
 #############################################################################
 Libraries
@@ -508,39 +576,3 @@ Structurize
 
   Required by Minecolonies
 
-#############################################################################
-[X] World Gen
-  [X] Biomes
-  [X] Ores & Resources
-  [X] Structures
-  [X] Dimensions
-  [X] Mobs
-[X] Technology
-  [X] Processing
-  [X] Player Transport
-  [X] Energy, Fluid & Item Transport
-  [X] Farming
-  [ ] Energy
-  [ ] Genetics
-[ ] Magic
-[X] Storage
-[ ] API & Library
-[ ] Adventure & RPG
-[X] Map & Information
-[X] Cosmetic
-[X] Misc
-[ ] Addons
-  [ ] Thermal Expansion
-  [ ] Tinker's Construct
-  [ ] Industrial Craft
-  [ ] Thaumcraft
-  [ ] Buildcraft
-  [ ] Forestry
-  [ ] Blood Magic
-  [ ] Lucky Blocks
-  [ ] Applied Energistics 2
-  [ ] CraftTweaker
-[ ] Armor, Tools & Weapons
-[ ] Server Utility
-[ ] Food
-[ ] Redstone
