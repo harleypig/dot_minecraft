@@ -118,38 +118,11 @@ Ding
 -----------------------------------------------------------------------------
 Controlling
   https://www.curseforge.com/minecraft/mc-mods/controlling
+  Controlling-*.jar
+  Tested
 
 #############################################################################
 World Generation
-
------------------------------------------------------------------------------
-Large Ore Deposits
-  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
-  Requires ForgeEndertech
-
------------------------------------------------------------------------------
-Biomes O' Plenty
-  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-
------------------------------------------------------------------------------
-Serene Seasons
-  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
-
------------------------------------------------------------------------------
-Snow Under Trees
-  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
-
------------------------------------------------------------------------------
-Realistic Ore Veins
-  https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins
-
------------------------------------------------------------------------------
-Water Erosion
-  https://www.curseforge.com/minecraft/mc-mods/water-erosion
-
------------------------------------------------------------------------------
-Ruins
-  https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
 
 -----------------------------------------------------------------------------
 Better Bedrock Generator
@@ -162,6 +135,35 @@ Overworld Quartz
 -----------------------------------------------------------------------------
 Save My Stronghold
   https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
+
+-----------------------------------------------------------------------------
+Snow Under Trees
+  https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
+
+-----------------------------------------------------------------------------
+Water Erosion
+  https://www.curseforge.com/minecraft/mc-mods/water-erosion
+
+-----------------------------------------------------------------------------
+Biomes O' Plenty
+  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+
+-----------------------------------------------------------------------------
+Serene Seasons
+  https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+
+-----------------------------------------------------------------------------
+Realistic Ore Veins
+  https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins
+
+-----------------------------------------------------------------------------
+Large Ore Deposits
+  https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+  Requires ForgeEndertech
+
+-----------------------------------------------------------------------------
+Ruins
+  https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
 
 #############################################################################
 Additions, Alterations - Does not add blocks, items or mobs
