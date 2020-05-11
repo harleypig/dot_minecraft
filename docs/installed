@@ -127,6 +127,9 @@ World Generation
 -----------------------------------------------------------------------------
 Better Bedrock Generator
   https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator
+  betterbedrockgenerator-*.jar
+
+  Requires MixinBootstrap
 
 -----------------------------------------------------------------------------
 Overworld Quartz
@@ -573,8 +576,9 @@ Bookshelf-1.15.2-5.5.33.jar
 -----------------------------------------------------------------------------
 Mixin Bootstrap
   https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap
+  MixinBootstrap-*.jar
 
-  Required by Immersive Portals
+  Required by Immersive Portals and Better Bedrock Generator
 
 -----------------------------------------------------------------------------
 Structurize

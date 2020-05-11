@@ -3,6 +3,7 @@ mods/**
 resourcepacks/**
 saves/**
 shaderpacks/**
+.mixin.out/**
 
 icon.png
 reauth.toml
