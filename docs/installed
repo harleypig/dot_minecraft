@@ -409,27 +409,74 @@ Just Enough Buttons
   https://www.curseforge.com/minecraft/mc-mods/just-enough-buttons
 
 -----------------------------------------------------------------------------
-CraftTweaker-1.15.2-6.0.0.17.jar
-damage_indicator-0.1.0.jar
-EquipmentTooltips-1.15.2-1.4.0+11.jar
-[Forge]+RFTL+1.5.2+R.jar
+Better Foliage
+  https://www.curseforge.com/minecraft/mc-mods/better-foliage
 
 -----------------------------------------------------------------------------
-Compare:
-  journeymap-1.15.2-5.7.0b2.jar
+Paintings++
+  https://www.curseforge.com/minecraft/mc-mods/paintings
+
+-----------------------------------------------------------------------------
+Torch Slabs Mod
+  https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
+
+-----------------------------------------------------------------------------
+Creeper Confettit
+  https://www.curseforge.com/minecraft/mc-mods/creeper-confetti
+
+-----------------------------------------------------------------------------
+Miner's Helmet
+  https://www.curseforge.com/minecraft/mc-mods/miners-helmet
+
+-----------------------------------------------------------------------------
+Lightest Lamps
+  https://www.curseforge.com/minecraft/mc-mods/lightest-lamps
+
+-----------------------------------------------------------------------------
+Double Slabs
+  https://www.curseforge.com/minecraft/mc-mods/double-slabs
+
+-----------------------------------------------------------------------------
+A Block of Charcoal
+  https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal
+
+-----------------------------------------------------------------------------
+Once Upon A Stroll
+  https://www.curseforge.com/minecraft/mc-mods/once-upon-a-stroll
+
+-----------------------------------------------------------------------------
+CraftTweaker
+  https://www.curseforge.com/minecraft/mc-mods/crafttweaker
+
+-----------------------------------------------------------------------------
+Huds - Armor Status & Damage Indicators
+  https://www.curseforge.com/minecraft/mc-mods/huds-armor-status-damage-indicators
+
+-----------------------------------------------------------------------------
+Ore Excavation
+  https://www.curseforge.com/minecraft/mc-mods/ore-excavation
+
+-----------------------------------------------------------------------------
+Overworld Quartz
+  https://www.curseforge.com/minecraft/mc-mods/overworld-quartz-forge
+
+-----------------------------------------------------------------------------
+Save My Stronghold
+  https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
+
+-----------------------------------------------------------------------------
+SurvivalPlus
+  https://www.curseforge.com/minecraft/mc-mods/survivalplus
+
+-----------------------------------------------------------------------------
+JourneyMap
+  https://www.curseforge.com/minecraft/mc-mods/journeymap
+
+Compare with Xaeros
   https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
   https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
 Can I add a waypoint from '/' command?
-
------------------------------------------------------------------------------
-jei-1.15.2-6.0.0.4.jar
-justenoughbeacons-2.0.jar
-OreExcavation-1.7.151.jar
-overworld_quartz-1.15.2-1.0.0.1.jar
-ReAuth-1.14-3.8.0.jar
-SaveMyStronghold-1.15.2-1.0.0.jar
-SurvivalPlus-1.15.2-0.1.2.jar
 
 #############################################################################
 Libraries
@@ -480,7 +527,7 @@ Structurize
 [ ] API & Library
 [ ] Adventure & RPG
 [X] Map & Information
-[ ] Cosmetic
+[X] Cosmetic
 [X] Misc
 [ ] Addons
   [ ] Thermal Expansion
